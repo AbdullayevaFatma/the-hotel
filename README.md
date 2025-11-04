@@ -1,4 +1,5 @@
-#The Hotel
+# The Hotel
+Deployed app: the-hotel-staff.netlify.app
 
 Technologies Used
 
