@@ -1,5 +1,5 @@
 # The Hotel
-Deployed app: the-hotel-staff.netlify.app
+Deployed app: https://the-hotel-staff.netlify.app
 
 Technologies Used
 
